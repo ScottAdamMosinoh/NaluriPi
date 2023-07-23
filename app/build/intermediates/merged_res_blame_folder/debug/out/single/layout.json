@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/ad0468-ade-mb-1/.gradle/daemon/7.5/com.example.naluripi.app-mergeDebugResources-40:/layout/circumference_view_item.xml",
+        "source": "/Users/ad0468-ade-mb-1/.gradle/daemon/7.5/com.example.naluripi.app-main-43:/layout/circumference_view_item.xml"
+    },
+    {
+        "merged": "/Users/ad0468-ade-mb-1/.gradle/daemon/7.5/com.example.naluripi.app-mergeDebugResources-40:/layout/activity_pi_value.xml",
+        "source": "/Users/ad0468-ade-mb-1/.gradle/daemon/7.5/com.example.naluripi.app-main-43:/layout/activity_pi_value.xml"
+    },
+    {
+        "merged": "com.example.naluripi.app-mergeDebugResources-40:/layout/circumference_view_item.xml",
+        "source": "com.example.naluripi.app-main-43:/layout/circumference_view_item.xml"
+    }
+]
